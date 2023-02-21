@@ -3,9 +3,6 @@
 *.ipr
 *.iws
 .gradle/*
-gradle/
-gradlew*
-!gradle/config.groovy
 /build/*
 /out/*
 /lib/
